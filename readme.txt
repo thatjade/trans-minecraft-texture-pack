@@ -1,5 +1,5 @@
-Updated to make the Hearts work again! The Title now also looks less out of place (Sorry for no non existant Upscale Skills)
-The Resource Pack shows as in 1.12.3 no incompatibility. 
+Updated to make the Hearts work again! The Title now also has been fixed!
+The Resource Pack shows as in 1.12.3 as compatible.
 
 
 
